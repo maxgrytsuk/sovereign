@@ -60,8 +60,8 @@
     },
 
     "Collective": {
-      "name": "Democracy Earth",
-      "domain": "https://localhost:3000",
+      "name": "República de Colombia",
+      "domain": "https://vota.plebiscitodigital.co",
       "emails": [
         {
           "address": "hello@democracy.earth",
